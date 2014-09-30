@@ -3,4 +3,4 @@
 	url = git://github.com/ansible/ansible-modules-core.git
 [submodule "lib/ansible/modules/extras"]
 	path = lib/ansible/modules/extras
-	url = git://github.com/ansible/ansible-modules-extras.git
+	url = git://github.com/grossws/ansible-modules-extras.git
